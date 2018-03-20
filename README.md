@@ -1,6 +1,6 @@
 ## Dinh HUYNH - dinh.hu19@yahoo.com
 ## https://www.linkedin.com/in/dinh-huynh
-## https://github.com/DinhLeGaulois
+## https://github.com/DinhLeGaulois2
 ----
 
 ## Bio 
@@ -38,7 +38,7 @@
 >
 > g. [**Job Search Organizer**](https://github.com/DinhLeGaulois2/sqlite3_react_redux_job_search):  **React/Redux**, **Sequelize**, **sqlite3**
 >
-> h. [**(fake) Spotify**](https://github.com/DinhLeGaulois2/spotify_react_redux_sql_sequelize): **React/Redux**, **Sequelize**, **MySQL**
+> h. [**(fake) Spotify**](https://github.com/DinhLeGaulois2/sql_react_redux_spotify): **React/Redux**, **Sequelize**, **MySQL**
 
 
 ## TECHNICAL SKILLS:		
