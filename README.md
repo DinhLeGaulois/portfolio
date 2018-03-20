@@ -24,21 +24,21 @@
 ## Professional Exprience (on programming)
 3-Tier Architecture with:
 
-> a. [**PHP**](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_PHP): **PHP** (BootStrap, jQuery, MongoDB)
+> a. [**PHP**](https://github.com/DinhLeGaulois2/mongodb_php_quiz): **PHP** (BootStrap, jQuery, MongoDB)
 >	
-> b. [**MEAN**](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MEAN_Stack): **MEAN** (MongoDB, Express/NodeJS, Angular 2)
+> b. [**MEAN**](https://github.com/DinhLeGaulois2/mongodb_mean_stack_quiz): **MEAN** (MongoDB, Express/NodeJS, Angular 2)
 >	
-> c. [**MERN**](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MERN_Stack): **MERN** (MongoDB, Express/NodeJS, ReactJS)
+> c. [**MERN**](https://github.com/DinhLeGaulois2/mongodb_mern_stack_quiz): **MERN** (MongoDB, Express/NodeJS, ReactJS)
 >	
-> d. [**Mobile App**](https://github.com/DinhLeGaulois/projects_with_no-sql/tree/master/projects_MongoDB/quiz_MobileApp): Mobile App (**iOS**, **Android**) with **Ionic 2**
+> d. [**Mobile App**](https://github.com/DinhLeGaulois2/mongodb_ionic2_quiz): Mobile App (**iOS**, **Android**) with **Ionic 2**
 > 
-> e. [**Calculator**](https://github.com/DinhLeGaulois/projects_without_db/tree/master/projects_with_react/calculator_react_redux): **React/Redux**
+> e. [**Calculator**](https://github.com/DinhLeGaulois2/react_redux_calculator): **React/Redux**
 >
-> f. [**Job Search Organizer**](https://github.com/DinhLeGaulois/projects_with_sql/tree/master/react-redux/job_search_react_redux_mysql):  **React/Redux**, **Sequelize**, **MySQL**
+> f. [**Job Search Organizer**](https://github.com/DinhLeGaulois2/sql_react_redux_job_search):  **React/Redux**, **Sequelize**, **MySQL**
 >
-> g. [**Job Search Organizer**](https://github.com/DinhLeGaulois/projects_with_sql/tree/master/react-redux/job_search_react_redux_sqlite):  **React/Redux**, **Sequelize**, **sqlite3**
+> g. [**Job Search Organizer**](https://github.com/DinhLeGaulois2/sqlite3_react_redux_job_search):  **React/Redux**, **Sequelize**, **sqlite3**
 >
-> h. [**(fake) Spotify**](https://github.com/DinhLeGaulois/projects_with_sql/tree/master/react-redux/spotify_react_redux_sql_sequelize): **React/Redux**, **Sequelize**, **MySQL**
+> h. [**(fake) Spotify**](https://github.com/DinhLeGaulois2/spotify_react_redux_sql_sequelize): **React/Redux**, **Sequelize**, **MySQL**
 
 
 ## TECHNICAL SKILLS:		
